@@ -1,6 +1,6 @@
 package com.assignment.practice.maths;
 
-import com.assignment.examples.maths.MathsOperation;
+import com.assignment.practice.maths.MathsOperation;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

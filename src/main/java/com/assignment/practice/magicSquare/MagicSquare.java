@@ -1,4 +1,4 @@
-package com.assignment.practice.magic_square;
+package com.assignment.practice.magicSquare;
 
 import java.util.Scanner;
 

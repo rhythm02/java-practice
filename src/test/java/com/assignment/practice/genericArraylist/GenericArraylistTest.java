@@ -1,6 +1,5 @@
-package com.assignment.practice.generic_arraylist;
+package com.assignment.practice.genericArraylist;
 
-import com.assignment.practice.generic_arraylist.GenericArraylist;
 import org.junit.Assert;
 import org.junit.Test;
 
